@@ -1,5 +1,5 @@
 # BatoiLogicDiw
 ## Versión
 ```yaml
-2.21.2
+Bootstrap-vue 2.21.2
 ```
